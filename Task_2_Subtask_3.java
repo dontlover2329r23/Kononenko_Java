@@ -9,11 +9,7 @@ public class TestTask {
             }
         }
         System.out.println();
-        //Поскольку в задании не указано что необходимо использовать массив , можно решить задание таким образом:
-        System.out.print("Четные числа: ");
-        for(int i=2;i<=10;i+=2){
-            System.out.print(i+" ");
-        }
+        
 
     }
 }
